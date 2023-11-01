@@ -5505,30 +5505,30 @@ if (UI.dark_mode) {
 }
 if (UI.dark_mode) {
 	document.write(
-		'<link rel="stylesheet" href="//rawcdn.githack.com/fahadisswa/google-drive-indexer/4246bb304d25e6b4db3dd96ad9fafeaa74cbd79c/css/mdui_v2_dark.min.css">'
+		'<link rel="stylesheet" href="//rawcdn.githack.com/fahadisswa/google-drive-indexer/1846ebbe753c4acec1236a97c67bed6a626dadea/css/mdui_v2_dark.min.css">'
 	)
 } else {
 	document.write(
-		'<link rel="stylesheet" href="//rawcdn.githack.com/fahadisswa/google-drive-indexer/4246bb304d25e6b4db3dd96ad9fafeaa74cbd79c/css/mdui_v2.min.css">'
+		'<link rel="stylesheet" href="//rawcdn.githack.com/fahadisswa/google-drive-indexer/1846ebbe753c4acec1236a97c67bed6a626dadea/css/mdui_v2.min.css">'
 	)
 }
 if (UI.dark_mode) {
 	document.write(
-		'<link rel="stylesheet" href="//rawcdn.githack.com/fahadisswa/google-drive-indexer/4246bb304d25e6b4db3dd96ad9fafeaa74cbd79c/css/nexmoe_v2_dark.min.css">'
+		'<link rel="stylesheet" href="//rawcdn.githack.com/fahadisswa/google-drive-indexer/1846ebbe753c4acec1236a97c67bed6a626dadea/css/nexmoe_v2_dark.min.css">'
 	)
 } else {
 	document.write(
-		'<link rel="stylesheet" href="//rawcdn.githack.com/fahadisswa/google-drive-indexer/4246bb304d25e6b4db3dd96ad9fafeaa74cbd79c/css/nexmoe_v2.min.css">'
+		'<link rel="stylesheet" href="//rawcdn.githack.com/fahadisswa/google-drive-indexer/1846ebbe753c4acec1236a97c67bed6a626dadea/css/nexmoe_v2.min.css">'
 	)
 }
 document.write(
-	'<script src="//rawcdn.githack.com/fahadisswa/google-drive-indexer/4246bb304d25e6b4db3dd96ad9fafeaa74cbd79c/js/mdui.min.js"></script>'
+	'<script src="//rawcdn.githack.com/fahadisswa/google-drive-indexer/1846ebbe753c4acec1236a97c67bed6a626dadea/js/mdui.min.js"></script>'
 )
 document.write(
-	'<script src="//rawcdn.githack.com/fahadisswa/google-drive-indexer/4246bb304d25e6b4db3dd96ad9fafeaa74cbd79c/js/flv.min.js"></script>'
+	'<script src="//rawcdn.githack.com/fahadisswa/google-drive-indexer/1846ebbe753c4acec1236a97c67bed6a626dadea/js/flv.min.js"></script>'
 )
 document.write(
-	'<script src="//rawcdn.githack.com/fahadisswa/google-drive-indexer/4246bb304d25e6b4db3dd96ad9fafeaa74cbd79c/js/DPlayer.min.js"></script>'
+	'<script src="//rawcdn.githack.com/fahadisswa/google-drive-indexer/1846ebbe753c4acec1236a97c67bed6a626dadea/js/DPlayer.min.js"></script>'
 )
 document.write(
 	'<script src="//cdn.jsdelivr.net/npm/marked@4.0.0/marked.min.js"></script>'
