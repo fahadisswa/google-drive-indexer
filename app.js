@@ -5940,11 +5940,12 @@ function append_files_to_list(path, files) {
 				})
 			}
 			var ext = p.split('.').pop().toLowerCase()
-			if (
-				'|html|php|css|go|java|js|json|txt|sh|md|mp4|webm|avi|bmp|jpg|jpeg|png|gif|m4a|mp3|flac|wav|ogg|mpg|mpeg|mkv|rm|rmvb|mov|wmv|asf|ts|flv|pdf|'.indexOf(
-					`|${ext}|`
-				) >= 0
-			) {
+			// if (
+			// 	'|html|php|css|go|java|js|json|txt|sh|md|mp4|webm|avi|bmp|jpg|jpeg|png|gif|m4a|mp3|flac|wav|ogg|mpg|mpeg|mkv|rm|rmvb|mov|wmv|asf|ts|flv|pdf|'.indexOf(
+			// 		`|${ext}|`
+			// 	) >= 0
+			// )
+			if (false) {
 				targetFiles.push(filepath)
 				p += '?a=view'
 				c += ' view'
